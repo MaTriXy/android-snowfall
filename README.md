@@ -3,11 +3,13 @@ Android-Snowfall
 
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Android--Snowfall-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/4952)
 [![Release](https://jitpack.io/v/jetradarmobile/android-snowfall.svg)](https://jitpack.io/#jetradarmobile/android-snowfall)
-[![API](https://img.shields.io/badge/API-15%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=15)
+[![API](https://img.shields.io/badge/API-16%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=16)
+[![AndroidWeekly](https://img.shields.io/badge/Android%20Weekly-%23238-blue.svg?style=flat)](http://androidweekly.net/issues/issue-238)
+[![AndroidDev Digest](https://img.shields.io/badge/AndroidDev%20Digest-%23124-blue.svg?style=flat)](https://www.androiddevdigest.com/digest-124/)
 
 Fully customizable implementation of "Snowfall View" on Android.
 
-That's how we use it in our app "Hotellook"
+That's how we use it in our app [Hotellook](https://play.google.com/store/apps/details?id=com.hotellook)
 
 ![image](https://raw.githubusercontent.com/JetradarMobile/android-snowfall/master/art/hotellook-demo.gif)
 
@@ -15,7 +17,7 @@ That's how we use it in our app "Hotellook"
 Compatibility
 -------------
 
-This library is compatible from API 15 (Android 4.0.3).
+This library is compatible from API 16 (Android 4.1).
 
 
 Download
@@ -36,7 +38,7 @@ Add the dependency
 
 ```groovy
 dependencies {
-    compile 'com.github.jetradarmobile:android-snowfall:1.1.2'
+    compile 'com.github.jetradarmobile:android-snowfall:1.1.6'
 }
 ```
 
